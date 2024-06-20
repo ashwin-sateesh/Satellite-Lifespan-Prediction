@@ -5,8 +5,10 @@ Satellites play a crucial role in modern communication, weather forecasting, nav
 
 The primary objectives of this project are:
 1. To analyze and preprocess satellite data to extract meaningful insights
-2. To build and evaluate different machine learning models for predicting satellite lifespan
-3. To optimize model performance through feature selection and hyperparameter tuning
+2. Detailed exploratory data analysis to understand the distribution and relationships between variables
+3. Feature selection to identify the most significant factors affecting satellite lifespan.
+4. To build and evaluate different machine learning models for predicting satellite lifespan
+5. To optimize model performance through regularization and hyperparameter tuning
 
 ## Dataset
 ### Data Source
