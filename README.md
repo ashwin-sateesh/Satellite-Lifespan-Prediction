@@ -1,7 +1,12 @@
 # Satellite Lifespan Prediction
 
 ## Project Overview
-This project aims to predict the expected lifespan of a satellite using various machine learning and deep learning models. Given the increasing number of satellites orbiting the Earth, predicting their lifespan is crucial to avoid collisions and manage space traffic effectively.
+Satellites play a crucial role in modern communication, weather forecasting, navigation, and scientific research. With the exponential increase in satellite launches, predicting their lifespan has become essential for efficient space management and collision avoidance. This project aims to predict the expected lifespan of a satellite using various machine learning and deep learning models. 
+
+The primary objectives of this project are:
+1. To analyze and preprocess satellite data to extract meaningful insights
+2. To build and evaluate different machine learning models for predicting satellite lifespan
+3. To optimize model performance through feature selection and hyperparameter tuning
 
 ## Dataset
 ### Data Source
